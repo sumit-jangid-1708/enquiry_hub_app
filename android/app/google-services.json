@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62121426871",
+    "project_id": "bbsmit-notifications",
+    "storage_bucket": "bbsmit-notifications.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62121426871:android:0ddd98cd1ebf50168ef232",
+        "android_client_info": {
+          "package_name": "com.ahit.enquiry_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn16-q9p4ucsipzdhX74Uu-7bpYU0E1ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62121426871:android:88e70ac380820b998ef232",
+        "android_client_info": {
+          "package_name": "com.bbsmit.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn16-q9p4ucsipzdhX74Uu-7bpYU0E1ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
